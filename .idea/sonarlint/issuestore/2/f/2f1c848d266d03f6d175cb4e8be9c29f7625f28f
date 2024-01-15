@@ -1,0 +1,50 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(’«‹ùÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(§êâãÿÿÿÿÿ
+D
+java:S3740"/Provide the parametrized type for this generic.(¬ó¿
+„
+java:S1319"iThe type of "reqparameter" should be an interface such as "Map" rather than the implementation "HashMap".(’«‹ùÿÿÿÿ
+‚
+java:S1319"gThe type of "reqHeaders" should be an interface such as "Map" rather than the implementation "HashMap".(§êâãÿÿÿÿÿ
+{
+java:S1319"fThe type of "multiPart" should be an interface such as "Map" rather than the implementation "HashMap".(¬ó¿
+n
+java:S1104	"SMake apiName a static final constant or non-public and provide accessors if needed.(ºò„ïøÿÿÿÿ
+i
+java:S1104
+"SMake baseUrl a static final constant or non-public and provide accessors if needed.(¹¢Æ
+q
+java:S1104"[Make reqrelateiveURl a static final constant or non-public and provide accessors if needed.(—÷Ú´
+s
+java:S1104"XMake reqparameter a static final constant or non-public and provide accessors if needed.(’«‹ùÿÿÿÿ
+q
+java:S1104"VMake reqHeaders a static final constant or non-public and provide accessors if needed.(§êâãÿÿÿÿÿ
+p
+java:S1104"UMake reqmethod a static final constant or non-public and provide accessors if needed.(ªæíùÿÿÿÿ
+j
+java:S1104"UMake reqStatus a static final constant or non-public and provide accessors if needed.(¶Ö™Q
+i
+java:S1104"SMake reqbody a static final constant or non-public and provide accessors if needed.(¦†Ë€
+l
+java:S1104"VMake resHeaders a static final constant or non-public and provide accessors if needed.(§Ïˆ‚
+k
+java:S1104"UMake resStatus a static final constant or non-public and provide accessors if needed.(³¡œÅ
+o
+java:S1104"YMake resStatusCode a static final constant or non-public and provide accessors if needed.(¹ã£ó
+q
+java:S1104"VMake resStrbody a static final constant or non-public and provide accessors if needed.(§ÉÕúÿÿÿÿ
+s
+java:S1104"XMake access_token a static final constant or non-public and provide accessors if needed.(½¯²ÿÿÿÿÿ
+j
+java:S1104"TMake response a static final constant or non-public and provide accessors if needed.(½»í‘
+q
+java:S1104"VMake resTraceId a static final constant or non-public and provide accessors if needed.(ãåÚŠÿÿÿÿÿ
+j
+java:S1104"UMake multiPart a static final constant or non-public and provide accessors if needed.(¬ó¿
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â³Âö
+q	java:S116"WRename this field "access_token" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¯²ÿÿÿÿÿ
+—
+java:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µÜ”¢

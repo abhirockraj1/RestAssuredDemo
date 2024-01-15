@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="TestSuite" parallel="methods">
+    <!--    <parameter name="Properties" value="src/main/resources/preprod/techmotors_4" />-->
+    <test name="SchemaValidations">
+        <classes>
+            <!--            <class name="RestAssuredTest"/>-->
+            <class name="ApiTestCases">
+                <methods>
+<!--                    <include name="validateProductData"/>-->
+                    <include name="validateAddProduct"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>

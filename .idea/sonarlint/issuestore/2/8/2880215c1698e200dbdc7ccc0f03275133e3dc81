@@ -1,0 +1,56 @@
+
+g	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ú‚ıèĞ1
+T
+java:S2629j"7Use the built-in formatting to construct this argument.(ÂÓ©8«¶‚êĞ1
+T
+java:S2629z"7Use the built-in formatting to construct this argument.(ÂÓ©8«¶‚êĞ1
+U
+java:S2629"7Use the built-in formatting to construct this argument.(ÂÓ©8«¶‚êĞ1
+U
+java:S2629®"7Use the built-in formatting to construct this argument.(ÂÓ©8«¶‚êĞ1
+U
+java:S2629È"7Use the built-in formatting to construct this argument.(ÂÓ©8¬¶‚êĞ1
+G
+java:S2629Ù"$Invoke method(s) only conditionally.(³¥‰ÿÿÿÿÿ8¬¶‚êĞ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â³Âö8ïÃøèĞ1
+B
+java:S1181D"%Catch Exception instead of Throwable.(Ù„8”ÄøèĞ1
+o	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üƒö¼úÿÿÿÿ8”ÄøèĞ1
+j	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ«›Ğ8–ÄøèĞ1
+^
+java:S3457j"AFormat specifiers should be used instead of string concatenation.(ÂÓ©8‚·‚êĞ1
+_
+java:S3878k"CDisambiguate this call by either casting as "Object" or "Object[]".(‚çñm8¢ÄøèĞ1
+j	java:S100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûíøø8˜ÄøèĞ1
+^
+java:S3457z"AFormat specifiers should be used instead of string concatenation.(ÂÓ©8†·‚êĞ1
+X	java:S125x"<This block of commented-out lines of code should be removed.(”„¨¾8‹·‚êĞ1
+N
+java:S1905"+Remove this unnecessary cast to "Response".(’æÓÃøÿÿÿÿ8Œ·‚êĞ1
+f
+java:S3878"CDisambiguate this call by either casting as "Object" or "Object[]".(’æÓÃøÿÿÿÿ8Œ·‚êĞ1
+k	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É² ÷8œÄøèĞ1
+_
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ÂÓ©8·‚êĞ1
+p	java:S100ª"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÄğŸıÿÿÿÿ8 ÄøèĞ1
+_
+java:S3457®"AFormat specifiers should be used instead of string concatenation.(ÂÓ©8”·‚êĞ1
+^	java:S125­"<This block of commented-out lines of code should be removed.(œàİôÿÿÿÿÿ8¡ÄøèĞ1
+I
+java:S1905¹"+Remove this unnecessary cast to "Response".(œ­‘È8™·‚êĞ1
+a
+java:S3878¹"CDisambiguate this call by either casting as "Object" or "Object[]".(œ­‘È8™·‚êĞ1
+k	java:S100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùç•8£ÄøèĞ1
+_
+java:S3457È"AFormat specifiers should be used instead of string concatenation.(ÂÓ©8›·‚êĞ1
+^	java:S125Ç"<This block of commented-out lines of code should be removed.(œàİôÿÿÿÿÿ8¤ÄøèĞ1
+N
+java:S1905É"+Remove this unnecessary cast to "Response".(»€¡Øúÿÿÿÿ8›·‚êĞ1
+f
+java:S3878É"CDisambiguate this call by either casting as "Object" or "Object[]".(»€¡Øúÿÿÿÿ8›·‚êĞ1
+j	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ½Ù`8¥ÄøèĞ1
+^	java:S125Ø"<This block of commented-out lines of code should be removed.(œàİôÿÿÿÿÿ8¦ÄøèĞ1
+N
+java:S1905Ú"+Remove this unnecessary cast to "Response".(ÀÅ‚½ıÿÿÿÿ8·‚êĞ1
+f
+java:S3878Ú"CDisambiguate this call by either casting as "Object" or "Object[]".(ÀÅ‚½ıÿÿÿÿ8·‚êĞ1

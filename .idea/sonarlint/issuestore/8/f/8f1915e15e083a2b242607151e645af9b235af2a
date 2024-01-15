@@ -1,0 +1,5 @@
+
+Œ
+java:S1319"oThe type of "headdersForSeesion" should be an interface such as "Map" rather than the implementation "HashMap".(¸«¯Ü8ƒáÇéĞ1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â³Âö
+L	java:S106"+Replace this use of System.out by a logger.(‘õË“úÿÿÿÿ8İã¢êĞ1
